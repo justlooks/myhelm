@@ -1,0 +1,7 @@
+name: alpine
+description: Deploy a basic Alpine Linux pod
+version: 0.1.0
+home: https://github.com/justlooks/myhelm
+sources:
+  - https://github.com/justlooks/myhelm
+appVersion: 3.3
