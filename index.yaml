@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: 2017-08-23T10:21:42.666497487+08:00
+entries:
+  alpine:
+  - appVersion: "3.3"
+    created: 2017-08-23T15:34:50.617335868+08:00
+    description: Deploy a basic Alpine Linux pod
+    digest: c8e2967bd53e590786edb150d07fc6fe31dea886d77f5ab3f60c699232f2a30c
+    home: https://github.com/justlooks/myhelm
+    name: alpine
+    sources:
+    - https://github.com/justlooks/myhelm
+    urls:
+    - https://justlooks.github.io/myhelm/alpine-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-08-23T15:34:50.616722813+08:00
